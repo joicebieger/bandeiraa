@@ -1,0 +1,53 @@
+body {
+    background-color: gray;
+    margin: O;
+}
+
+.flag {
+    width: 600px;
+    margin: 40px;
+    background-color: white;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five,
+#six {
+    height: 150px;
+    background-color: rgb(15, 61, 27);
+}
+
+#two {
+    background-color: rgb(0, 0, 0);
+}
+
+#three {
+    background-color: rgb(245, 245, 245);
+}
+
+#four {
+    background-color: blue;
+}
+
+#five {
+    background-color: yellow;
+}
+
+#six {
+    background-color: white;
+}
+
+#white {
+    height: 150px;
+    background-color: white;
+}
+
+#red {
+    background: red;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-left: 228px;
+}
